@@ -1,0 +1,16 @@
+h1{
+    font-size: 2rem;
+}
+.input{
+    font-size: 1rem;
+}
+input{
+    font-size: 0.75rem;
+
+}
+#cardBox{
+    width: 80%;
+}
+#head, #para, #ageBox, #print {
+    font-size: 20px;
+}
